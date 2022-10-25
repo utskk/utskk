@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Utku</h1>
 <h3 align="center">I'm studying Computer Engineering at Beykent University.</h3>
 
-- 🌱 I’m currently learning **C++, Sql, C#, C, React,**
+- 🌱 I’m currently learning **C++, Sql, C#, C, React**
 
 - 📫 How to reach me **utku.isiks@gmail.com**
 
